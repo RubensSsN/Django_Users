@@ -3,15 +3,19 @@
 Endpoints:
 Criar pessoa(localhost/pessoas/create/):
 
-![Pessoas create TESTE](https://user-images.githubusercontent.com/100388554/202081780-28186a38-4d44-44d5-a63c-6698f7159322.png)
+![Pessoas create TESTE](https://user-images.githubusercontent.com/100388554/202082794-e345502f-cbcb-4108-b545-0a889a1a3a2c.png)
+
 
 Home(localhost):
 
-![Home TESTE](https://user-images.githubusercontent.com/100388554/202081825-dcf07d79-b2c6-44cf-a7fe-b75b44f09ea4.png)
+![Home TESTE](https://user-images.githubusercontent.com/100388554/202082925-08e26d10-7fe5-4503-aacb-da6bb3c69a65.png)
+
 
 Listar (localhost/pessoas/):
 
-![LISTAR PESSOA TESTE](https://user-images.githubusercontent.com/100388554/202081962-9998d30b-bbc0-444d-9c72-fa9c87c0d652.png)
+![LISTAR PESSOA TESTE](https://user-images.githubusercontent.com/100388554/202082664-7ab52ea7-3b1d-4cb7-bc01-f8fdc9e043f2.png)
+
+
 
 Para testar basta criar um arquivo do banco de dados feito pelo propio django ao rodar o site com (python manage.py runserver)
 
